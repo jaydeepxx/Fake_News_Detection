@@ -1,1 +1,1 @@
-# Fake_News_Detection
+#  Fake News📰 Classification WebApp using Python
